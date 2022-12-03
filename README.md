@@ -1,2 +1,2 @@
-# ml_finaproject
+# ml_finalproject
 plant recommendation engine
