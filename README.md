@@ -1,20 +1,7 @@
 # ml_finalproject
-plant recommendation engine based on the Missouri Botanical Garden plant database
+Plant Recommendation Engine from the Missouri Botanical Garden plant database
 
-
-Here are some guide questions that will help you out:
-
-What was your motivation?
-Why did you build this project?
-What problem does it solve?
-What did you learn?
-What makes your project stand out?
-If your project has a lot of features, consider adding a "Features" section and listing them here
-
-What to Include in your README
-1. Plant Recommendation Engine from the Missouri Botanical Garden plant database
-
-2. Project Description
+Project Description
 As a practicing landscape architect, I’m interested in the ways that data analysis and visualization can strengthen the profession. The concepts introduced so far in the course makes me think machine learning can help make certain aspects of the job easier. A lot of developing selecting plant material comes with experience and seeing what works in the field. However, I've noticed that landscape architects tend to stick to a particular palette, and are sometimes hesitant to try new plants.
 
 After scraping the Missouri Botanical Garden plant database (see pfch_finalproject repo), I created a plant recommendation engine that uses cosine similarity to identify similar plants and return the top 5 most similar plants. Hopefully this will inspire people to expand and experiment with new plants they didn't think to use.
